@@ -1,0 +1,12 @@
+// console.time('This much time took')
+// console.log('hello hello')
+// console.log(3+3)
+// console.log(12)
+// console.log([1,2,3,4,5])
+// console.log({Dinesh: 'this', marks: '34' })
+// console.table({Dinesh:'this', marks:50})
+// console.warn( 'table')
+// console.timeEnd('This much time took')
+// console.assert(1502<190, 'Age >190 is not possible')
+var $city = 'khajura'
+console.log($city)
