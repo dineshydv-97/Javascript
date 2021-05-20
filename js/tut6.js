@@ -25,4 +25,24 @@ let fruit1 = 'apple';
 let fruit2 = 'banana';
  let myhtml = `Hello $`
 
+ const name="bhagi"
+ const greeting = 'Good Morning '
+ console.log( greeting + name)
+let message;
+  message = "hello bhagi you are smart "+
+ "and you do so hardwork for income more money fr change the life "
+ message= message.concat('hello baby ', 'I appricate your hardwork')
+ console.log(message)
+ console.log(message.length)
+ console.log (message.toLowerCase())
+ console.log (message.toUpperCase())
+ console.log (message[0])
+ console.log(message.indexOf('y'))
+ console.log(message.lastIndexOf('y'))
+ console.log(message.charAt('10'))
+ console.log(message.replace('hello', 'Muji' ))
+ 
+ 
+
+
 
